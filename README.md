@@ -1,6 +1,8 @@
 # webpack
 理解webpack原理
 
+转自https://zhuanlan.zhihu.com/p/58151131?utm_source=com.daimajia.gold&utm_medium=social&utm_oi=631273285770547200
+
 ## 什么是webpack
 
 它是一个模块打包器，可以分析各个模块的依赖关系，最终打包成我们常见的静态文件，.js 、 .css 、 .jpg 、.png。今天我们先不弄那么复杂，我们就介绍webpack是怎么分析ES6的模块依赖，怎么把ES6的代码转成ES5的。
